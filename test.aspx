@@ -6,7 +6,7 @@
     <title>just a simple test html file </title>
     
 </head>
-<h1> Adding to fifth commit </h1>
+<h1> Sample ASP.NET web project for docker </h1>
     <h4>This is a test page</h4>
 <body>
 
